@@ -13,6 +13,9 @@ nav ul li a {
   text-justify: distribute;
   z-index: auto;
 }
+nav ul li a:hover {
+  color: #0e93e0;
+}
 body {
   background: url(./bmw2.png) repeat center center/cover;
   height: 750px;
@@ -28,6 +31,5 @@ h1 {
   color: rgb(231, 231, 231);
 }
 h1:hover {
-  color: #0098f0;
-  text-shadow: #ffffff;
+  color: #0e93e0;
 }
