@@ -26,9 +26,10 @@ body {
 h1 {
   height: 25px;
   display: flex;
-  align-items: flex-start;
   justify-content: right;
   color: rgb(231, 231, 231);
+  margin-right: 60px;
+  margin-bottom: 16px;
 }
 h1:hover {
   color: #0e93e0;
