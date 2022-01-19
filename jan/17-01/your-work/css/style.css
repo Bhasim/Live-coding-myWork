@@ -1,0 +1,75 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+body{
+    background-color: rgb(255, 254, 253);
+    background-image: url(../images/fbavatar_1642412011271_6888775268523636672.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-size: 33rem;
+}
+section div{
+    width: 3rem;
+    height: 3rem;
+    border: 2px rgb(26, 24, 24) solid;
+    border-radius: 50%;
+    
+}
+h1{
+    font-family: 'Luxurious Roman', cursive;
+    background-color: gray;
+    font-size: 2rem;
+}
+/* DRY dont repet ur sewlf */
+#red {
+    background-color: red; 
+}
+#orange {
+    background-color: orange;
+}
+#green{
+    background-color: green;
+}
+.arrow-up {
+    width: 0; 
+    height: 0; 
+    border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+    
+    border-bottom: 5px solid black;
+  }
+    
+/* 
+  هذا لعمل مثلث بالسي اس اس و تجد الكلاس في اسفل المف */
+  .arrow-down {
+    width: 0; 
+    height: 0; 
+    border-left: 20px solid transparent;
+    border-right: 20px solid transparent;
+    
+    border-top: 20px solid #f00;
+  }
+  
+  .arrow-right {
+    width: 0; 
+    height: 0; 
+    border-top: 60px solid transparent;
+    border-bottom: 60px solid transparent;
+    
+    border-left: 60px solid green;
+  }
+  
+  .arrow-left {
+    width: 0; 
+    height: 0; 
+    border-top: 10px solid transparent;
+    border-bottom: 10px solid transparent; 
+    
+    border-right:10px solid blue; 
+  }
