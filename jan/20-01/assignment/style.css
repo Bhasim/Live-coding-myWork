@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+:root {
+    font-size: 16px;
+}
+
+h1, p {
+    color: rgb(3, 162, 202);
+    text-align: center;
+}
+
+
+p::before {
+    content: "⛵";  
+}
+  
+  p::after {
+    content: "🌅";
+  }
