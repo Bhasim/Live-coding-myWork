@@ -234,7 +234,7 @@
 ### CSS Variables: 
   Defining in `:root { --[name]: [value] }`
 ### pseudo elements VS  pseudo classes
-#### pseudo elements
+### pseudo elements
 - `::after` `::before ` 
 - `::first-letter` 
 - `::placeholder` for styling `placeholder` text
