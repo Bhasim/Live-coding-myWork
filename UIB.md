@@ -324,4 +324,15 @@ Defining in `:root { --[name]: [value] }`
 ### Styling our Form 2 - Use Case
 - Creating a CSS only toggle switch
 ### Publishing with GitHub pages
+<<<<<<< HEAD
 >>>>>>> a140cb0a5d200bb025c4b42f44279cb3c93f15b6
+=======
+------
+## [25.01](https://github.com/FbW-WD21-E11/live-coding/tree/main/jan/25-01) intro to Flexbox 
+### HTML/CSS assignment
+- Log-in page
+### Revision 
+### Flexbox on parent elements
+- Flexible boxes: `display: flex`, flex child & flex parent concept
+- Aligning and justifying: `justify-content` and `align-items`
+>>>>>>> dca87632ae134f739bcad5f302039110a3a42eee
