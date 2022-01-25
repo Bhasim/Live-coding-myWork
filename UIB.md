@@ -120,7 +120,7 @@
 
 ### Font Sizing
 
-- Setting text size with `font-size`
+- Setting text size with `font-size
 - Relative to root: `rem` sizing and the `:root` selector
 
 ### Color in CSS
@@ -253,6 +253,7 @@
   
 =======
 
+<<<<<<< HEAD
 ----
 ## [20.01](https://github.com/FbW-WD21-E11/live-coding/tree/main/jan/20-01) Pseudo classes and elements
 ### Review 
@@ -271,6 +272,8 @@
 >>>>>>> 43e9b31e85911027809b2f3119e30c41cf64350f
 =======
 
+=======
+>>>>>>> a140cb0a5d200bb025c4b42f44279cb3c93f15b6
 ---
 
 ## [20.01](./jan/20-01) Pseudo classes and elements
@@ -296,4 +299,29 @@ Defining in `:root { --[name]: [value] }`
 - Use cases for the different units
 
 #### Presentation pseudo classes and elements
+<<<<<<< HEAD
 >>>>>>> b42741b5a9f832a5ef766ef6351715e91b598917
+=======
+
+----
+## [24.01](https://github.com/FbW-WD21-E11/live-coding/tree/main/jan/24-01) Forms in Html
+### Icon Fonts
+- Conveying meaning without text: fontawesome
+- Adding fontawesome to our websites: choosing the correct CSS links
+- Sizing icons with Fontawsome sizing utility classes
+- Alternatives to Fontawesome - flaticon, thenounproject.com
+### Let The Light In 
+- Using `box-shadow` to emulate a light source
+- Using multiple instances of `box-shadow`
+### Forms and Dynamic Data
+- Searching - `<form>`, `<input>`
+- Sending forms to a URL - the `action` attribute
+- Importance of names: `<input name=[...]>` attribute, 
+   `<label for=[...]>`
+- URL structure & anatomy 
+- HTTP verbs - `GET`, `POST` and the `method` attribute
+ - `<form>`, `<fieldset>`, `<legend>`
+### Styling our Form 2 - Use Case
+- Creating a CSS only toggle switch
+### Publishing with GitHub pages
+>>>>>>> a140cb0a5d200bb025c4b42f44279cb3c93f15b6
