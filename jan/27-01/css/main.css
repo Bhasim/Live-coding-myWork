@@ -63,7 +63,8 @@
 .eat {
   background-color: bisque;
 }
-.sleep {
+.sleep { 
+  background-color: rgb(186, 248, 248);
 }
 .dream {
 }
