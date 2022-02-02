@@ -410,4 +410,16 @@ Defining in `:root { --[name]: [value] }`
 ### Defining grid areas
 - Template areas: setting the parent with keywords, css `grid-template-areas`
 - Placing boxes in an area: css `grid-area`
+<<<<<<< HEAD
 >>>>>>> d8544be067458566da76b8f6414987280a3d5a62
+=======
+
+-----
+
+
+## 01.02  Html / Css assignment 
+### working on Youtube clone assignment using Grid and FlexBox
+
+-------
+
+>>>>>>> df2eca4cb21d7843a85bda571e976556131e307f
