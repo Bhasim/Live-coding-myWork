@@ -422,4 +422,18 @@ Defining in `:root { --[name]: [value] }`
 
 -------
 
+<<<<<<< HEAD
 >>>>>>> df2eca4cb21d7843a85bda571e976556131e307f
+=======
+## 02.02  Html / Css assignment 
+### Q & A 
+### working on Youtube clone assignment using Grid and FlexBox
+
+-------
+## [03.02](https://github.com/FbW-WD21-E11/live-coding/tree/main/feb/03-02) Responsive Web Design
+### Media queries
+- Anatomy of a media query: `@media [media-type] ([media features]) { ... }`
+- Default media type: `screen` is optional
+- Common features: `(min-width: <size>)`
+- Breakpoints: The "standard" bootstrap breakpoint values
+>>>>>>> 92c28cef06641e2785b6483549361f25c0bfcbb6
