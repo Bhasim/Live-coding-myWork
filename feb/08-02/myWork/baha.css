@@ -1,0 +1,90 @@
+.test {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-items: center;
+}
+
+/* b  */
+
+.baha-b {
+  color: brown;
+  animation-name: letter-b;
+  animation-duration: 0.5s;
+  animation-iteration-count: infinite;
+}
+
+@keyframes letter-b {
+  0% {
+    font-size: 3rem;
+  }
+  50% {
+    font-size: 9rem;
+  }
+  100% {
+    font-size: 1rem;
+  }
+}
+
+/* a1  */
+
+.baha-a1 {
+  color: rgb(42, 136, 165);
+  animation-name: letter-a1;
+  animation-duration: 1s;
+  animation-iteration-count: infinite;
+}
+
+@keyframes letter-a1 {
+  0% {
+    font-size: 10rem;
+  }
+  50% {
+    font-size: 3rem;
+  }
+  100% {
+    font-size: 15rem;
+  }
+}
+
+/* h  */
+
+.baha-h {
+  color: rgb(58, 196, 23);
+  animation-name: letter-h;
+  animation-duration: 3s;
+  animation-iteration-count: infinite;
+}
+
+@keyframes letter-h {
+  0% {
+    font-size: 1rem;
+  }
+  50% {
+    font-size: 15rem;
+  }
+  100% {
+    font-size: 13rem;
+  }
+}
+
+/* a2  */
+
+.baha-a2 {
+  color: rgb(214, 211, 9);
+  animation-name: letter-a2;
+  animation-duration: 3s;
+  animation-iteration-count: infinite;
+}
+
+@keyframes letter-a2 {
+  0% {
+    font-size: 1rem;
+  }
+  50% {
+    font-size: 9rem;
+  }
+  100% {
+    font-size: 1rem;
+  }
+}
