@@ -377,65 +377,94 @@ Defining in `:root { --[name]: [value] }`
 - Reordering children: `order` and `align-self`
 - The perfect center:
 - centering in fixed height parents with `display: flex` and `margin: auto`
+
 ### Html/Css assignment: Periodic Table
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 ### Html/Css assignment : Periodic Table
 >>>>>>> 73f1d60feb2fa6a6cba6e9ebbb0f37715bba83bd
 =======
 -----
+=======
+---
+>>>>>>> 7b992147f899b17c5ae3c7db92e440546e2a28bb
 
 ## [27.01](https://github.com/FbW-WD21-E11/live-coding/tree/main/jan/27-01) Building a web page
 
 ### Live coding session
+
 - Building HTML/CSS web page
-### Html/Css assignment: 
+
+### Html/Css assignment:
+
 - Creating a webpage using HTML/CSS : Mobile app
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> fe51914aa4b4bd047c06c8dc5531c838dde39314
 =======
 --------------
+=======
+
+---
+>>>>>>> 7b992147f899b17c5ae3c7db92e440546e2a28bb
 
 ## [31.01](https://github.com/FbW-WD21-E11/live-coding/tree/main/jan/31-01) Grid intro
 
 ### CSS Grid on parent elements
+
 - Making our grid container: `.container { display: grid }`
 - Grid columns: css `grid-template-columns` and `fr` unit
 - Setting max and min sizes: css `minmax([min], [max])`
 - Spacing columns and rows - `gap`
+
 ### CSS Grid on child elements
-- Spanning over several columns: 
-   `grid-column: [start] / [end];`, `span` keyword
+
+- Spanning over several columns:
+  `grid-column: [start] / [end];`, `span` keyword
 - Spanning over several rows: `grid-row: [start] / [end];`
+
 ### Defining grid areas
+
 - Template areas: setting the parent with keywords, css `grid-template-areas`
 - Placing boxes in an area: css `grid-area`
 <<<<<<< HEAD
 >>>>>>> d8544be067458566da76b8f6414987280a3d5a62
 =======
 
------
+---
 
+## 01.02 Html / Css assignment
 
-## 01.02  Html / Css assignment 
 ### working on Youtube clone assignment using Grid and FlexBox
 
--------
+---
 
+## 02.02 Html / Css assignment
+
+### Q & A
+
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> df2eca4cb21d7843a85bda571e976556131e307f
 =======
 ## 02.02  Html / Css assignment 
 ### Q & A 
+=======
+>>>>>>> 7b992147f899b17c5ae3c7db92e440546e2a28bb
 ### working on Youtube clone assignment using Grid and FlexBox
 
--------
+---
+
 ## [03.02](https://github.com/FbW-WD21-E11/live-coding/tree/main/feb/03-02) Responsive Web Design
+
 ### Media queries
+
 - Anatomy of a media query: `@media [media-type] ([media features]) { ... }`
 - Default media type: `screen` is optional
 - Common features: `(min-width: <size>)`
 - Breakpoints: The "standard" bootstrap breakpoint values
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> 92c28cef06641e2785b6483549361f25c0bfcbb6
 =======
@@ -447,23 +476,56 @@ Defining in `:root { --[name]: [value] }`
 >>>>>>> c274c722f59371b3ac42570b1dbb74f04158256c
 =======
 ------
+=======
+
+---
+
+## [07.02](https://github.com/FbW-WD21-E11/live-coding/tree/main/feb/07-02) Responsive Web Design part 2
+
+### CSS Review
+
+- Building a responsive web page
+
+---
+
+>>>>>>> 7b992147f899b17c5ae3c7db92e440546e2a28bb
 ## [08.02](https://github.com/FbW-WD21-E11/live-coding/tree/main/feb/08-02) CSS Animations
+
 ### Custom Animations
+
 - Creating custom animation scripts: `@keyframes [name] { ... }`
 - Applying animations: `:hover` and `:focus`, css `animation`
 - Controlling the script: `from`, `to` and `%` directives
-- Changing the iteration and direction: 
+- Changing the iteration and direction:
   `animation-iteration-count`, `animation-direction`
 - Best Design Practices: When and how much transition and animation
 <<<<<<< HEAD
 >>>>>>> 116a352bb7eae0aecac8b67bd10350c5a8f03276
 =======
 
---------
+---
+
 ## [09.02](https://github.com/FbW-WD21-E11/live-coding/tree/main/feb/09-02) CSS Animations part 2
+
 ### Built in Animations
-- Transitioning property changes - 
+
+- Transitioning property changes -
   css `transition: [prop] [duration] [timing]`
 - Creating a nested navigation bar with `<nav>` and nested `<ul>`
 - Showing dropdowns on `:hover` and `:focus`
+<<<<<<< HEAD
 >>>>>>> 343eafe147f21be36aa9b5561d9ca81490567354
+=======
+
+---
+
+## [10.02](https://github.com/FbW-WD21-E11/live-coding/tree/main/feb/10-02) Overview
+
+### Building a webpage
+### Basic UIB test
+
+----
+
+## [14.02](https://github.com/FbW-WD21-E11/live-coding/tree/main/feb/for-you-all) Valentine's Day animation ❤️
+###  Revision and Practice
+>>>>>>> 7b992147f899b17c5ae3c7db92e440546e2a28bb
