@@ -528,4 +528,15 @@ Defining in `:root { --[name]: [value] }`
 
 ## [14.02](https://github.com/FbW-WD21-E11/live-coding/tree/main/feb/for-you-all) Valentine's Day animation ❤️
 ###  Revision and Practice
+<<<<<<< HEAD
 >>>>>>> 7b992147f899b17c5ae3c7db92e440546e2a28bb
+=======
+
+------
+## [15.02](https://github.com/FbW-WD21-E11/live-coding/tree/main/feb/15-02) CSS Frameworks
+### Sass Introduction
+- Official  [Sass Web Site](https://sass-lang.com/)
+- Sass superpowers 
+- Sass Basics
+### [Project Structure ](https://github.com/FbW-WD21-E11/live-coding/tree/main/feb/sass)
+>>>>>>> 5182b7e6f1b83f1f5aa35e0717423854eeb74f8e
