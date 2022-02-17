@@ -539,4 +539,15 @@ Defining in `:root { --[name]: [value] }`
 - Sass superpowers 
 - Sass Basics
 ### [Project Structure ](https://github.com/FbW-WD21-E11/live-coding/tree/main/feb/sass)
+<<<<<<< HEAD
 >>>>>>> 5182b7e6f1b83f1f5aa35e0717423854eeb74f8e
+=======
+
+------
+## [16.02](https://github.com/FbW-WD21-E11/live-coding/tree/main/feb/16-02) Sass structure
+### Build scripts: Using npm as a build tool
+- Installing dependencies: `npm install`
+- Running for development: `npm start`
+- Building for publication: `npm run build`
+### UIB advanced test
+>>>>>>> ab264039af0bd4b8e25a03d50a7dd05f29ad3e3d
