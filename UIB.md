@@ -550,4 +550,24 @@ Defining in `:root { --[name]: [value] }`
 - Running for development: `npm start`
 - Building for publication: `npm run build`
 ### UIB advanced test
+<<<<<<< HEAD
 >>>>>>> ab264039af0bd4b8e25a03d50a7dd05f29ad3e3d
+=======
+------
+## [17.02](https://github.com/FbW-WD21-E11/live-coding/tree/main/feb/17-02) Sass part 2
+### Sass Variables: an introduction
+- Variables concept: "A box to keep values in"
+- Sass variables: Defining with `$[name]: [value]`, Using with `$[name]`
+### Sass Nesting
+
+------
+## [28.02]() Bootstrap
+- Adding Bootstrap to our project (with CDNs) -
+  JS dependencies and Bootstrap CSS, `<script src="...">`
+- Content, Components, utilities - 
+navigating the bootstrap documentation
+- Using the Bootstrap grid system: grid classes and flex
+- Smart copy pasting - read, understand, copy, modify
+- Using Bootstrap components: Creating a page with close to 0 CSS
+- customizing Bootstrap using Souce files 
+>>>>>>> d07b965709ef5b7428e0f9c45d00dae83f8da078
