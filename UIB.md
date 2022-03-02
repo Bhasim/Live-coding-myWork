@@ -570,4 +570,11 @@ navigating the bootstrap documentation
 - Smart copy pasting - read, understand, copy, modify
 - Using Bootstrap components: Creating a page with close to 0 CSS
 - customizing Bootstrap using Souce files 
+<<<<<<< HEAD
 >>>>>>> d07b965709ef5b7428e0f9c45d00dae83f8da078
+=======
+
+-----
+## [01.03](https://github.com/FbW-WD21-E11/live-coding/tree/main/mar/01-03) Bootstrap Revision
+### Bootstrap Project 
+>>>>>>> 4ad66966a398cfea8474fd8f9fdcb47e1c9a1621
