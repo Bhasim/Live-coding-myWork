@@ -577,4 +577,16 @@ navigating the bootstrap documentation
 -----
 ## [01.03](https://github.com/FbW-WD21-E11/live-coding/tree/main/mar/01-03) Bootstrap Revision
 ### Bootstrap Project 
+<<<<<<< HEAD
 >>>>>>> 4ad66966a398cfea8474fd8f9fdcb47e1c9a1621
+=======
+
+------
+## [02.03](https://github.com/FbW-WD21-E11/live-coding/tree/main/mar/02-03) Sass mixins
+### Sass Mixins: Predefined reusable rulesets
+- Defining mixins: `@mixin [name](){ ... }`
+- Using mixins: `@include [name]()`
+- Parameters and arguments: 
+  `@mixin [name]([parameters])`, `@include [name]([arguments])`
+- Main use case for mixins.
+>>>>>>> ce593c21c6779b9dd63aa400d580b53b66405196
