@@ -589,4 +589,12 @@ navigating the bootstrap documentation
 - Parameters and arguments: 
   `@mixin [name]([parameters])`, `@include [name]([arguments])`
 - Main use case for mixins.
+<<<<<<< HEAD
 >>>>>>> ce593c21c6779b9dd63aa400d580b53b66405196
+=======
+
+-----
+## [03.03](https://github.com/FbW-WD21-E11/live-coding/tree/main/mar/03-03) Sass maps/functions
+### Sass maps: A collection of variables in one name
+### Sass functions  
+>>>>>>> 297bae47e25ecd29673bf16efe897c4677931eb9
