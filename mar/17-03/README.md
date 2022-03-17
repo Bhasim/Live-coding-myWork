@@ -17,4 +17,4 @@
 - escaping strings
 - template literals
 - string length
-- square bracket notation for strings
+- square bracket notation for strings.
