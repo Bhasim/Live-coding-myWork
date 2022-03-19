@@ -1,7 +1,7 @@
 /**
  * Template literals strings
  * 
- * It works with. backticks ` 
+ * It works with backticks ` 
  */
 
 let string = `"I can use double quotes" and 'I can also use single quotes'`;
