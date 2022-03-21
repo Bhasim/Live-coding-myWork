@@ -20,7 +20,7 @@ let trianglePerimeter = triangleSideA + triangleSideB + triangleSideC;
 console.log(`The perimeter of the triangle is ${trianglePerimeter}cm`);
 
 let square2Side = 5;
-// let square2Area = square2Side * square2Side;
+// let square2Area = square2Side   * square2Side;
 let square2Area = square2Side ** 2;
 
 console.log(`The area of the square is ${square2Area}`);
