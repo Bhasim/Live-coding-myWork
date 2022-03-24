@@ -22,7 +22,7 @@
 // this is an array literal
 []; // this is an empty array
 
-// this is also an array literal
+//  this is also an array literal.
 [1, 2, 3]; // it's an array that contains 3 items: 1, 2, and 3
 
 ["a", "b", "c"]; // array that contains 3 string items: "a", "b", and "c"
