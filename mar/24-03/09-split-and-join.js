@@ -38,3 +38,4 @@ console.log(words.join(" "));
 
 // let's put our sentence back together, between each word we have a smile :)
 console.log(words.join(" :) "));
+
