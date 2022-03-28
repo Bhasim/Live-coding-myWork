@@ -28,6 +28,7 @@
 ["a", "b", "c"]; // array that contains 3 string items: "a", "b", and "c"
 
 // an array can contain any kind data types, and also different ones at the same time 
+
 [1, "a", true, false, 2, "b"]; 
 
 let emptyArray = [];

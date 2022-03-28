@@ -110,7 +110,7 @@ const cart = ["t-shirt", "jeans", "hat", "sunglasses"];
 
 console.log(`Your cart contains: ${cart}`);
 
-// in the console.log() above, javascript automatically transforms the array
+// in the console.log() above, javascript. automatically transforms the array
 // into a string, using commas as separators
 
 /**
