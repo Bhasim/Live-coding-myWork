@@ -95,6 +95,8 @@ stringWithTypo = "hello";
  * "Hello world" => "dlrow olleH"
  */
 
+
+
 let sentence = "Hello world";
 let sentenceArray = sentence.split("")
 sentenceArray.reverse();
