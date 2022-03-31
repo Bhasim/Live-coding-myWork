@@ -13,4 +13,3 @@ if (jennaAge > jimAge) {
     olderPerson2 = "Jim";
 }
 
-// end
