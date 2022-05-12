@@ -37,7 +37,8 @@ class Bird extends Animal {
 const fish1 = new Fish("fish", "Nemo", "red", 4);
 const bird1 = new Bird("bird", "Tweet", "blue");
 
-console.log(fish1);
+
+
 console.log(bird1);
 fish1.eat("fish food");
 fish1.swim();
