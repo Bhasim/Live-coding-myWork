@@ -164,3 +164,6 @@ let cheapestProduct2 = products.reduce((acc, product) => {
 }, {});
 let cheapestProductDescription = `${cheapestProduct2.color} ${cheapestProduct2.type}`;
 console.log("Cheapest product description:", cheapestProductDescription);
+
+
+
