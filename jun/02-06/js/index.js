@@ -48,7 +48,7 @@ const colorGen = () => {
   let result = "#";
   let colorCode = "0123456789ABCDEF";
   for (let i = 0; i < 6; i++) {
-    result += colorCode[Math.floor(Math.random() * 16)];
+    result += colorCode[Math.flor(Math.random() * 16)];
   }
   return result;
 };
