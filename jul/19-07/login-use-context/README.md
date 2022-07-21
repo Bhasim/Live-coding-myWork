@@ -24,3 +24,6 @@ and always console.log the response before saving it.
 
 - add other components (header, footer, toggle color theme ...)
 - add styling
+
+
+
